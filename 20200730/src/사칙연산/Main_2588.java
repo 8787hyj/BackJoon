@@ -16,7 +16,7 @@ public class Main_2588 {
 		
 		System.out.println( a * (b % 10));
 		System.out.println( a * ((b % 100) / 10));
-		System.out.println( a * (b / 10));
+		System.out.println( a * (b / 100));
 		System.out.println( a * b);
 	}
 }
