@@ -1,4 +1,4 @@
-package back;
+package 사칙연산;
 
 import java.util.Scanner;
 
