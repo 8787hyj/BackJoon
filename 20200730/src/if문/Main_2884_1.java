@@ -3,8 +3,8 @@ package if문;
 import java.util.Scanner;
 
 /*
-* 알람 시계
-*/
+ * 알람 시계
+ */
 public class Main_2884_1 {
 
 	public static void main(String[] args) {
